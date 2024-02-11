@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+DreamBrookPy.egg-info/PKG-INFO
+DreamBrookPy.egg-info/SOURCES.txt
+DreamBrookPy.egg-info/dependency_links.txt
+DreamBrookPy.egg-info/top_level.txt

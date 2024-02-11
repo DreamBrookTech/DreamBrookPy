@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: DreamBrookPy
+Version: 0.0.1
+Summary: Official Python Toolbox for DreamBrookTech Ecosystem
+Home-page: https://github.com/DreamBrookTech/DreamBrookPy
+Author: DreamBrookTech
+Author-email: dev@dreambrook.tech
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# DreamBrookPy
+Official Python Toolbox for the DreamBrook Tech Ecosystem
+
+
